@@ -1,6 +1,8 @@
-# todo
+# todo list
 
-This template should help get you started developing with Vue 3 in Vite.
+Vue3 + vite + vitest sample Project to practice writing component/unit test with vitest .
+
+there are 4 test that examine props and a custome events
 
 ## Recommended IDE Setup
 
